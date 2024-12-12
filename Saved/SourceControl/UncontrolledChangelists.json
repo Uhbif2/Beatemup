@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/Beatemup/Beatemup/Content/Excavator/BP_Excavator_2.uasset",
+				"D:/Unreal Projects/Beatemup/Beatemup/Content/Excavator/Meshes/M_corpus.uasset",
+				"D:/Unreal Projects/Beatemup/Beatemup/Content/Excavator/Meshes/M_window.uasset",
+				"D:/Unreal Projects/Beatemup/Beatemup/Content/Excavator/Meshes/XCavatorSCcorbusB.uasset",
 				"C:/Users/Liza/Desktop/Beatemup/Content/Vampire-Panels/Materials/M_HrushBase_Inside.uasset",
 				"C:/Users/Liza/Desktop/Beatemup/Content/Vampire-Panels/Materials/M_HrushBase_Outside.uasset",
 				"C:/Users/Liza/Desktop/Beatemup/Content/Vampire-Panels/Meshes/HrushevkaBase.uasset",
