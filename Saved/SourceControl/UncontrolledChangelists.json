@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/HSE/Game/Beatemup/Content/Excavator/BP_Excavator_2.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/Interface/WB_MainMenu_4.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/Interface/BoardersAndTextures/MS_LoopText.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/Interface/BoardersAndTextures/TextOpen.uasset",
@@ -1220,6 +1219,8 @@
 				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_1_Sborka/3/6C/VJ47Z8HKJPWOOV0RK0YTIY.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_1_Sborka/9/A8/SEQ32O4O1V3GJ8RPEJL05P.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_Obuch_Sborka/C/ZQ/TDSRLY3XR21LMRAQ98D8ST.uasset",
+				"D:/Institute/3 course/Bitemup/MyProject/Content/Shader.uasset",
+				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_Obuch_Sborka/7/WB/BWP555XQF71VAST4118SHE.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/Interface/01_Unemployment.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_Obuch_Sborka/4/R3/DU36HD74ZKUAU4ZREL7356.uasset",
 				"D:/Institute/3 course/Bitemup/MyProject/Content/__ExternalActors__/Levels/Level_Obuch_Sborka/7/1D/9ON9XNM28Z7X8DOKAY8145.uasset",
